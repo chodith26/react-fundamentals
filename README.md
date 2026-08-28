@@ -1,3 +1,7 @@
+## Preview
+
+![App screenshot](public/images/screenshot.png)
+
 # React Practice — Describing the UI
 
 A small practice project built while working through react.dev's
