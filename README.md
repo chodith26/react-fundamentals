@@ -16,6 +16,18 @@ only — this is a learning exercise, not an original app.
 - Rendering lists with `.map()` and `key`
 - Component purity (see separate purity demo, not part of main app)
 
+## Concepts practiced
+- Components, named vs. default exports
+- JSX + curly braces (including double-curly `style={{...}}` objects)
+- Props, default parameter values, and `children`
+- Conditional rendering
+- Rendering lists with `.map()` and `key`
+- Component purity (see separate purity demo, not part of main app)
+- Responding to events (button clicks, form submit with preventDefault)
+- State with useState, and the state-as-snapshot behavior
+- Queueing multiple state updates with updater functions
+- Updating objects and arrays in state immutably (favorites list, editable bios, adding new facts)
+
 ## Tech
 React + Vite
 
